@@ -14,3 +14,5 @@ Attention : Python file should run under path name in English rather than Chines
 
 ## Results
 ![image](https://github.com/LeisureLei/Pose_estimate_use_kf/blob/master/image.png)
+
+Run this program (Due to Gaussian Random Noise, every time you run this program, you will get different results).The red line represents the trajectory of robot. The red “*” represents real points, the yellow “•” represents measurements by sensors and the blue “+” represents estimated points by Kalman Filter.
